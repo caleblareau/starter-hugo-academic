@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: true
     image_darken: 0
-    color: "#b11c1c"
+    color: "#201cb1"
     image: pxl_20210909_220733159-01.jpeg
 ---
 Hello
