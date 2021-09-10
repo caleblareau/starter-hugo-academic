@@ -12,12 +12,12 @@ social:
     link: /#contact
   - display:
       header: true
-    icon_pack: far
+    icon_pack: fas
     icon: twitter
     link: https://twitter.com/caleblareau
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: linkedin-in
     link: https://www.linkedin.com/in/caleblareau/
 organizations:
@@ -25,8 +25,6 @@ organizations:
     url: https://www.stanford.edu/
   - name: Parker Institute for Cancer Immunotherapy
     url: https://www.parkerici.org/
-  - name: Broad Institute of Harvard and MIT
-    url: https://www.broadinstitute.org/
 education:
   courses:
     - course: PhD in Biological and Biomedical Sciences
