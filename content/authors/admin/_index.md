@@ -27,13 +27,16 @@ organizations:
     url: https://www.parkerici.org/
 education:
   courses:
+    - course: Fellowship in Pathology, Genetics
+      institution: Stanford University
+      year: ""
     - course: PhD in Biological and Biomedical Sciences
       institution: Harvard University
       year: 2020
     - course: MA in Biostatistics
       institution: Harvard University
       year: 2027
-    - course: BSc in Biochemistry, Mathmatics
+    - course: BSc in Biochemistry, Mathematics
       institution: University of Tulsa
       year: 2015
 email: clareau@stanford.edu
