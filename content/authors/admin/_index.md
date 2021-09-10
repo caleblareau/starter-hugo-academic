@@ -1,77 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Caleb Lareau
+role: Stanford Science Fellow
+avatar_filename: pxl_20210909_220733159-01.jpeg
+bio: I'm a fellow at Stanford University studying cancer and the immune system
+  with genomics and computation.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - immunology
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - display:
+      header: true
+    icon_pack: far
+    icon: twitter
+    link: https://twitter.com/caleblareau
+  - display:
+      header: false
+    icon_pack: far
+    icon: linkedin-in
+    link: https://www.linkedin.com/in/caleblareau/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+  - name: Parker Institute for Cancer Immunotherapy
+    url: https://www.parkerici.org/
+  - name: Broad Institute of Harvard and MIT
+    url: https://www.broadinstitute.org/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: PhD in Biological and Biomedical Sciences
+      institution: Harvard University
+      year: 2020
+    - course: MA in Biostatistics
+      institution: Harvard University
+      year: 2027
+    - course: BSc in Biochemistry, Mathmatics
+      institution: University of Tulsa
+      year: 2015
+email: clareau@stanford.edu
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Caleb Lareau is currently a Stanford Science Fellow and Parker Scholar at the Stanford University School of Medicine. He completed his PhD in 2020 at Harvard Medical School focusing on the development of new single-cell genomics technologies, including methods of clonal lineage tracing in humans. Caleb's research at Stanford is supervised by Ansuman Satpathy and Anshul Kundaje in the Departments of Pathology and Genetics. His current work focuses on the application of single-cell technologies to understand dynamics of immune cells in human health and in diseases such as cancer.
